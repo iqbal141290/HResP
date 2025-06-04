@@ -42,7 +42,7 @@ From the comparison, it can be observed that—given the same RAO curve and JONS
 If you have an RAO curve derived from CFD simulation or a 3D Panel Method, you can also use this program to estimate the heave response in irregular seas.
 
 # User Guide
-This code is intended to calculate the vessel's heave response in irregular waves, using an RAO curve as input.
+This code is intended to calculate the vessel's heave response in random waves, using an RAO curve as input.
 The RAO data should be provided in a CSV file with space delimiters, where: The first column represents the wave length-to-ship length ratio and 
 the second column contains the heave RAO values. Ensure that the RAO file is placed in the same folder as the program.
 1. Run the code
