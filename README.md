@@ -4,7 +4,7 @@ Please do not hesitate to contact me if you have any questions. https://doi.org/
 
 **Muhammad Iqbal, PhD**
 
-Lecturer at Department of Naval Architecture at Diponegoro University, Indonesia.
+Lecturer at Department of Naval Architecture, Universitas Diponegoro, Indonesia.
 
 Linkedin : https://www.linkedin.com/in/muhammad-iqbal-a1721a34/
 
