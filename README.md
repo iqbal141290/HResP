@@ -1,6 +1,6 @@
 # HResP
 HresP code is a program designed to calculate the heave response of a vessel in irregular waves. I hope you find it useful.
-Please do not hesitate to contact me if you have any questions.
+Please do not hesitate to contact me if you have any questions. https://doi.org/10.5281/zenodo.15593229
 
 **Muhammad Iqbal, PhD**
 
