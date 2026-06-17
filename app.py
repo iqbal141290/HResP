@@ -25,7 +25,7 @@ st.subheader("Heave Response Program in Random Waves")
 st.markdown("""
 **Dibuat oleh Muhammad Iqbal, S.T., M.T., Ph.D**   
 **Departemen Teknik Perkapalan UNDIP**   
-**18 Juni 2026 ** 
+**18 Juni 2026** 
 """)
 
 st.divider()
