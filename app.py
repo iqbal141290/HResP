@@ -19,13 +19,13 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌊 H-RESP")
+st.title("H-RESP")
 st.subheader("Heave Response Program in Random Waves")
 
 st.markdown("""
-**Dibuat oleh:** Muhammad Iqbal, S.T., M.T., Ph.D  
-**Departemen:** Teknik Perkapalan UNDIP  
-**Tanggal Aplikasi Web Dibuat:** 18 Juni 2026
+**Dibuat oleh Muhammad Iqbal, S.T., M.T., Ph.D**   
+**Departemen Teknik Perkapalan UNDIP**   
+**18 Juni 2026 ** 
 """)
 
 st.divider()
