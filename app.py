@@ -197,28 +197,28 @@ st.sidebar.header("Input Parameters")
 v = st.sidebar.number_input(
     "Kecepatan kapal, v (m/s)",
     min_value=0.0,
-    value=5.0,
+    value=4.358,
     step=0.1
 )
 
 L = st.sidebar.number_input(
     "Panjang kapal, L (m)",
     min_value=0.1,
-    value=100.0,
+    value=30.977,
     step=1.0
 )
 
 Hs = st.sidebar.number_input(
     "Tinggi gelombang signifikan, Hs (m)",
     min_value=0.0,
-    value=2.0,
+    value=1.0,
     step=0.1
 )
 
 Tp = st.sidebar.number_input(
     "Peak Period, Tp (s)",
     min_value=0.1,
-    value=8.0,
+    value=3.5,
     step=0.1
 )
 
