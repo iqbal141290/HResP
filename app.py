@@ -96,7 +96,7 @@ def calculate_hresp(v, L, Hs, Tp, gama, heading_deg, df):
     w = w[sort_idx]
     heave_rao = heave_rao[sort_idx]
 
-    no_points = len(heave_rao)
+    no_points = len(heave_rao)*2
     xx = np.linspace(np.min(w_e), np.max(w_e), no_points)
 
     # ==== INTERPOLASI RAO ====
